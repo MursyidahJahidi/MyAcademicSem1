@@ -2,3 +2,7 @@
 Venue: D07, Jabatan Perkhidmatan Digital (UTMDigital), UTM JB  
 Date: 28-29 Oct 2025  
 Time: 8:30 am - 4:30 pm  
+Task: Video Blog to UTMDigital Open Day  
+Group members: Mursyidah binti Jahidi, Qistina Batrisyia binti Noor Mohd Azlan, Nor Ain Fahira binti Muhamad Fariq  
+
+---
