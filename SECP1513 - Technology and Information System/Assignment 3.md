@@ -1,5 +1,5 @@
 # Assignment 3 : Academic Writing  
-Task: Academic Writing on Industry Talk 2
+Task: Academic Writing on Industry Talk 2  
 Title: Project Management & System Development
 Venue: Hyflex Classroom N28A  
 Date: 18 Dec 2025  
