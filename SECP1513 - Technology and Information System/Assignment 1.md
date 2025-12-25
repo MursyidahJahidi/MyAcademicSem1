@@ -21,4 +21,8 @@ Group photo with Mr Madradzi Muhamad, Senior IT Officer
 
 <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/1580f2c3-05a9-467a-9759-62a0f443e70f" />
 Slide about UTMDigital
+<br> <br>
+
+View the video blog here: 
+
 
