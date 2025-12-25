@@ -13,3 +13,9 @@ For the assignment, everything went smoothly we divided the tasks to each one, i
 
 ---
 # Photo
+<img width="1080" height="606" alt="image" src="https://github.com/user-attachments/assets/77840773-2420-4882-8a76-00a00e4c7328" />
+Group photo with PPG speakers
+<br> <br>
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/5408cfa8-a2fd-451c-8686-883f8432d097" />
+Slide about Data Analytics
