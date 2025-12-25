@@ -3,7 +3,7 @@ Task: Academic Writing on Industry Talk 2
 Title: Project Management & System Development
 Venue: Hyflex Classroom N28A  
 Date: 18 Dec 2025  
-Time: 2.30 pm - 3.30 pm
+Time: 2.30 pm - 3.30 pm  
 Group members: Mursyidah binti Jahidi, Qistina Batrisyia binti Noor Mohd Azlan, Nor Ain Fahira binti Muhamad Fariq  
 
 ---
