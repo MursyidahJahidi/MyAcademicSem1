@@ -1,4 +1,4 @@
-# Assignment 1 : Industry Talk (PPG)
+# Assignment 2 : Industry Talk (PPG)
 Venue: Hyflex Classroom N28A  
 Date: 20 Nov 2025  
 Time: 2.30 pm - 3.30 pm  
@@ -7,11 +7,9 @@ Group members: Mursyidah binti Jahidi, Qistina Batrisyia binti Noor Mohd Azlan, 
 
 ---
 # Reflection  
-UTMDigital Open Day is organized to bring the UTM community closer to the university’s digital initiatives. The main purpose is to let staff, students, and visitors explore how UTM is transforming through technology.  
-
-During the 2 days of attending this event, I gained a lot of knowledge from the UTMDigital staff, including sharing about the system they have created to facilitate students, lecturers and staff at UTM, such as the UTM Smart application, UTM Portal and so on. I also gained more knowledge about my course, which is data engineering, I had the opportunity to hear a talk from the UTMDigital Data Center & Database Admin. He explained about how they handle big databases, keep data clean and build dashboards using software tools. I think it is very interesting to listen to the talk.  
-
-For this assignment, my group members and I were able to successfully complete the video blog because everyone cooperated very well and gave us great ideas to produce this video. I hope we can also do better for the next assignment.  
+PPG Industry is an American supplier of paints, coatings and special materials that operates in more than 70 countries globally including Malaysia.  
+From the talk, I learned that in the industry the project data is very large and complex which is very different from the university assignment where the data is simple and there are only a few columns and rows. One of the speakers advised us that technical skills are not enough to survive in industry, understand the processes, collaboration is important too. I realized that there are many things I need to improve before entering the industry and hope I can prepare all of that while at university.  
+For the assignment, everything went smoothly we divided the tasks to each one, i am grateful to be able to complete this poster well within the specified time.
 
 ---
 # Photo
