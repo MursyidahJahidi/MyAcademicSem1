@@ -17,7 +17,8 @@ For the assignment, everything went smoothly we divided the tasks to each one, i
 Group photo with PPG speakers
 <br> <br>
 
-<img width="959" height="727" alt="image" src="https://github.com/user-attachments/assets/f92e73b0-78ae-4a1b-b2dd-58b20cbb0446" />  
+<img width="959" height="727" alt="image" src="https://github.com/user-attachments/assets/f92e73b0-78ae-4a1b-b2dd-58b20cbb0446" /> 
+<br>
 Slide about Data Analytics
 <br> <br>
 
