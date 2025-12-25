@@ -16,3 +16,10 @@ For the assignment task, everyone had no problem completing the tasks that had b
 
 ---
 # Photo
+<img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/14bcead3-4783-4f71-9ce5-7a3a96e5e185" />
+<br>
+Group Photo with Ts. Hj. Abdul Alim bin Abdul Muttalib, Head of Technology  and Innovation of Serunai Commerce Sdn Bhd
+<br> <br>
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/61500a22-ac8f-458f-9822-3153f68a52b2" />
+<br>
+Slide about SDLC
