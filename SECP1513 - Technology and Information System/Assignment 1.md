@@ -23,6 +23,7 @@ Group photo with Mr Madradzi Muhamad, Senior IT Officer
 Slide about UTMDigital
 <br> <br>
 
-View the video blog here: 
+View the video blog here: https://drive.google.com/drive/folders/1hu3cDVs8xQDMkSRwscJk7q7nBPynrRGX
+
 
 
