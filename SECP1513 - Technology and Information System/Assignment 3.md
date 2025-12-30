@@ -23,3 +23,5 @@ Group Photo with Ts. Hj. Abdul Alim bin Abdul Muttalib, Head of Technology  and 
 <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/61500a22-ac8f-458f-9822-3153f68a52b2" />
 <br>
 Slide about SDLC
+<br> <br>
+View my Academic Writing: https://drive.google.com/drive/folders/1W0Apb8LZSt0JEhABkByo48JdYRUvLqGj
