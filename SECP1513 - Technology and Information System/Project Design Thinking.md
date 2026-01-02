@@ -24,4 +24,4 @@ One of the main challenges was making design decisions based on assumptions and 
 For this project , my group members and I successfully completed out respective parts of the report by supporting one another and working together to ensure that each task was done properly and with care. However, for the video task, we completed it somewhat at the last minute. I hope that in the future project or assignment, we will able to plan and manage our time more effectively.
 
 ---
-# Photo
+View my project report: https://drive.google.com/drive/folders/1_A8PitpQcA_8Th-FpoxdN-ffSQVRJIAm
