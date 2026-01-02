@@ -1,5 +1,5 @@
 # Project: Design Thinking
-Project Title: "Smart Campus Data Solution: Improving Student Experience through Data"
+Project Title: "Smart Campus Data Solution: Improving Student Experience through Data"  
 Project Theme: Digital Attendance Improvement  
 Task: Report, Video, Presentation    
 Group members: Mursyidah binti Jahidi, Qistina Batrisyia binti Noor Mohd Azlan, Nor Ain Fahira binti Muhamad Fariq  
