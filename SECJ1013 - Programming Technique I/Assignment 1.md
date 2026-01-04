@@ -9,4 +9,4 @@ In this assignment, I was able to use the fundamental flowchart I learned in cla
 
 ---
 # Question & Flowchart
-View here: 
+View here: https://github.com/MursyidahJahidi/MyAcademicSem1/blob/e424fba83555a81606f170cfe6adcdb39519d550/SECJ1013%20-%20Programming%20Technique%20I/Assignment1PTdrawio_251217_233149.pdf
