@@ -1,7 +1,8 @@
 # Lab 1 : Introduction to Logic Circuits
 Task: This lab focuses on several practical issues related to bread boarding and testing combinational logic circuits.  
-Group members: - Mursyidah binti Jahidi 
-               - Balqis Batrisya binti Jalaluddin  
+Group members: 
+- Mursyidah binti Jahidi 
+- Balqis Batrisya binti Jalaluddin  
 
 ---
 # Reflection
