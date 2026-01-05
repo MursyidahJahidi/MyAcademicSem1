@@ -13,7 +13,7 @@ Doing Lab 2 was very different experience compared to Lab 1 because we moved fro
 
 Another interesting part was converting the circuit into a NAND gates only. Actually it was confusing especially the second circuit which the output ALARM to convert to NAND gates, but it helped me understand the the concept of universal gates more deeply. After successfully get the same output for the original circuit and the NAND gates circuit, this showed me that complex logic circuit can be implemented using only one type of gate.
 
-This Lab 2 was not carried out in the lab, but my partner and I managed to complete this lab together. We shared ideas and compared our answers to avoid mistakes, and I thankful that we managed to complete and submit the lab on time.
+This Lab 2 was not carried out in the lab, but my partner and I managed to complete this lab together. We shared ideas and compared our answers to avoid mistakes, and I thankful that we were able to complete and submit the lab on time.
 <br>
 
 View my lab sheet: https://drive.google.com/file/d/1Rh76rjn9nDffmPkoX2yUIDe6CqBq3DKW/view?usp=drivesdk
