@@ -3,9 +3,9 @@ Task:
 - Producing digital logic circuit, generating truth table and Timing Diagram with Deeds Simulator.
 - Complete a cycle process of a combinational circuit design and simulate with Deeds Simulator.
 <br> 
-Group members: 
-- Mursyidah binti Jahidi 
-- Balqis Batrisya binti Jalaluddin  
+Group members:
+- Mursyidah binti Jahidi
+- Balqis  
 
 ---
 # Reflection
